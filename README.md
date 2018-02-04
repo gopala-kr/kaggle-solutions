@@ -1,1 +1,3 @@
-# kaggle-solutions
+
+
+> my notes and solutions on kaggle competetions
