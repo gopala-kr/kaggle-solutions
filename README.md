@@ -15,7 +15,7 @@
 
 | **No** | **Competetion Name** | **Category** | **Top Solutions** | **Kaggle Score** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
-|  1    |  [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [`1st place sol`](https://github.com/Arturus/kaggle-web-traffic)     |   35.48064([Arthur Suilin](https://www.kaggle.com/asuilin))   | SMAPE    |   Done       |
-|  2    |        |          |          |      |          |   |
+|  1    |  [web-traffic-time-series-forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [`1st place sol`](https://github.com/Arturus/kaggle-web-traffic)     |   35.48064([Arthur Suilin](https://www.kaggle.com/asuilin))   | SMAPE    |   Done       |
+|  2    |  [statoil-iceberg-classifier-challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)      |  Featured        |          |    [[1st](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241)][[2nd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294)],[[3rd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207)]  |     LogLoss     | Done  |
 |  3    |        |       |          |      |          |     |
 |  4    |        |         |          |      |          |     |
