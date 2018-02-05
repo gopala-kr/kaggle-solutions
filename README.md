@@ -13,9 +13,9 @@
 
 **Kaggle old competetions**
 
-| **No** | **Competetion Name** | **Category** | **Top Solutions** | **Kaggle Score** | **Tests**
+| **No** | **Competetion Name** | **Category** | **Top Solutions** | **Kaggle Score** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------|:-----|:---------|
-|  1    |  [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [`Arturus/kaggle-web-traffic`](https://github.com/Arturus/kaggle-web-traffic)     |   35.48064([Arthur Suilin](https://www.kaggle.com/asuilin))   |   Done       |
-|  2    |        |          |          |      |          |
-|  3    |        |       |          |      |          |
-|  4    |        |         |          |      |          |
+|  1    |  [Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [`Arturus/kaggle-web-traffic`](https://github.com/Arturus/kaggle-web-traffic)     |   35.48064([Arthur Suilin](https://www.kaggle.com/asuilin))   | SMAPE    |   Done       |
+|  2    |        |          |          |      |          |   |
+|  3    |        |       |          |      |          |     |
+|  4    |        |         |          |      |          |     |
