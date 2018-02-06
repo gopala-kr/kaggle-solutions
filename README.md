@@ -37,3 +37,11 @@
 |  20    |  [predicting-red-hat-business-value](https://www.kaggle.com/c/predicting-red-hat-business-value)      |  Featured          |          |      |     area under the ROC curve   |     |
 |  21    |  [ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation)      |  Featured          |          |      |      Dice coefficient    |     |
 |  22    |  [draper-satellite-image-chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)      |  Featured          |          |      |      Spearman's correlation coefficient    |     |
+|  23    |  [melbourne-university-seizure-prediction](https://www.kaggle.com/c/melbourne-university-seizure-prediction#evaluation)      |  Featured          |          |      |      area under the ROC curve    |     |
+|  24    |  [home-depot-product-search-relevance](https://www.kaggle.com/c/home-depot-product-search-relevance)      |  Featured          |          |      |      RMSE    |     |
+|  25    |  [yelp-restaurant-photo-classification](https://www.kaggle.com/c/yelp-restaurant-photo-classification)      |  Featured          |          |      |       Mean F1-Score   |     |
+|  26    |  [second-annual-data-science-bowl](https://www.kaggle.com/c/second-annual-data-science-bowl)      |  Featured          |          |      |      CRPS   |     |
+|  27    |  [datasciencebowl](https://www.kaggle.com/c/datasciencebowl)      |  Featured          |          |      |      logloss    |     |
+|  28    |  [avazu-ctr-prediction](https://www.kaggle.com/c/avazu-ctr-prediction)      |  Featured          |          |      |      Logarithmic Loss   |     |
+|  29    |  [yandex-personalized-web-search-challenge](https://www.kaggle.com/c/yandex-personalized-web-search-challenge)      |  Featured          |          |      |      NDCG   |     |
+|  30    |  [AlgorithmicTradingChallenge](https://www.kaggle.com/c/AlgorithmicTradingChallenge)      |  Featured          |          |      |      RMSE     |     |
