@@ -23,3 +23,17 @@
 |  6    |  [msk-redefining-cancer-treatment](https://www.kaggle.com/c/msk-redefining-cancer-treatment)      |  Featured        |          |      |     Multi Class Log Loss     |     |
 |  7    |  [nyc-taxi-trip-duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)      |  Playground         |          |      |     Multi Class Log Loss     |     |
 |  8    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |      |     mean F1 score     |     |
+|  9    |  [planet-understanding-the-amazon-from-space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)      |  Featured          |          |      |     mean F1 score     |     |
+|  10   |  [ercedes-benz-greener-manufacturing](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)      |  Featured          |          |      |     R^2     |     |
+|  11    |  [intel-mobileodt-cervical-cancer-screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)      |  Featured          |          |      |    logloss    |     |
+|  12    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |      |     mean F1 score     |     |
+|  13   |  [youtube8m](https://www.kaggle.com/c/youtube8m)      |  Featured          |          |      |     GAP    |     |
+|  14    |  [the-nature-conservancy-fisheries-monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)      |  Featured          |          |      |     logloss     |     |
+|  15    |  [data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017)      |  Featured          |          |      |     LogLoss    |     |
+|  16   |  [dstl-satellite-imagery-feature-detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)      |  Featured          |          |      |     Jaccard    |     |
+|  17    |  [two-sigma-financial-modeling](https://www.kaggle.com/c/two-sigma-financial-modeling)      |  Featured          |          |      |     R2    |     |
+|  18   |  [outbrain-click-prediction](https://www.kaggle.com/c/outbrain-click-prediction)      |  Featured          |          |      |     MAP@12    |     |
+|  19    |  [santander-product-recommendation](https://www.kaggle.com/c/santander-product-recommendation)      |  Featured          |          |      |     MAP@7    |     |
+|  20    |  [predicting-red-hat-business-value](https://www.kaggle.com/c/predicting-red-hat-business-value)      |  Featured          |          |      |     area under the ROC curve   |     |
+|  21    |  [ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation)      |  Featured          |          |      |      Dice coefficient    |     |
+|  22    |  [draper-satellite-image-chronology](https://www.kaggle.com/c/draper-satellite-image-chronology)      |  Featured          |          |      |      Spearman's correlation coefficient    |     |
