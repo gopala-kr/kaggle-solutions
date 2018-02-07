@@ -21,12 +21,12 @@
 |  4    |  [tensorflow-speech-recognition-challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)      |  Featured        |          |      |     Multiclass Accuracy      |     |
 |  5    |  [passenger-screening-algorithm-challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge)      |  Featured        |          | [object-detection](https://www.kaggle.com/tags/object-detection)     |     LogLoss     |     |
 |  6    |  [msk-redefining-cancer-treatment](https://www.kaggle.com/c/msk-redefining-cancer-treatment)      |  Featured        |          |  [multiclass-classification](https://www.kaggle.com/tags/multiclass-classification)    |     Multi Class Log Loss     |     |
-|  7    |  [nyc-taxi-trip-duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)      |  Playground         |          |      |     Multi Class Log Loss     |     |
+|  7    |  [nyc-taxi-trip-duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)      |  Playground         |          |  [regression](https://www.kaggle.com/tags/regression)    |     Multi Class Log Loss     |     |
 |  8    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |   [regression](https://www.kaggle.com/tags/regression)    |     mean F1 score     |     |
 |  9    |  [planet-understanding-the-amazon-from-space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)      |  Featured          |          |      |     mean F1 score     |     |
 |  10   |  [mercedes-benz-greener-manufacturing](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)      |  Featured          |          |  [regression](https://www.kaggle.com/tags/regression)    |     R^2     |     |
 |  11    |  [intel-mobileodt-cervical-cancer-screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)      |  Featured          |          |      |    logloss    |     |
-|  12    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |      |     mean F1 score     |     |
+
 |  13   |  [youtube8m](https://www.kaggle.com/c/youtube8m)      |  Featured          |          |      |     GAP    |     |
 |  14    |  [the-nature-conservancy-fisheries-monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)      |  Featured          |          | [object-detection](https://www.kaggle.com/tags/object-detection)     |     logloss     |     |
 |  15    |  [data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017)      |  Featured          |          |  [binary-classification](https://www.kaggle.com/tags/binary-classification)    |     LogLoss    |     |
@@ -40,8 +40,8 @@
 |  23    |  [melbourne-university-seizure-prediction](https://www.kaggle.com/c/melbourne-university-seizure-prediction#evaluation)      |  Featured          |          |      |      area under the ROC curve    |     |
 |  24    |  [home-depot-product-search-relevance](https://www.kaggle.com/c/home-depot-product-search-relevance)      |  Featured          |          |      |      RMSE    |     |
 |  25    |  [yelp-restaurant-photo-classification](https://www.kaggle.com/c/yelp-restaurant-photo-classification)      |  Featured          |          |      |       Mean F1-Score   |     |
-|  26    |  [second-annual-data-science-bowl](https://www.kaggle.com/c/second-annual-data-science-bowl)      |  Featured          |          |      |      CRPS   |     |
-|  27    |  [datasciencebowl](https://www.kaggle.com/c/datasciencebowl)      |  Featured          |          |      |      logloss    |     |
+|  26    |  [second-annual-data-science-bowl](https://www.kaggle.com/c/second-annual-data-science-bowl)      |  Featured          |          |  [binary-classification](https://www.kaggle.com/tags/binary-classification)    |      CRPS   |     |
+|  27    |  [datasciencebowl](https://www.kaggle.com/c/datasciencebowl)      |  Featured          |          |  [binary-classification](https://www.kaggle.com/tags/binary-classification)    |      logloss    |     |
 |  28    |  [avazu-ctr-prediction](https://www.kaggle.com/c/avazu-ctr-prediction)      |  Featured          |          |      |      Logarithmic Loss   |     |
 |  29    |  [yandex-personalized-web-search-challenge](https://www.kaggle.com/c/yandex-personalized-web-search-challenge)      |  Featured          |          |      |      NDCG   |     |
 |  30    |  [AlgorithmicTradingChallenge](https://www.kaggle.com/c/AlgorithmicTradingChallenge)      |  Featured          |          |      |      RMSE     |     |
