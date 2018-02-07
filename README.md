@@ -26,7 +26,6 @@
 |  9    |  [planet-understanding-the-amazon-from-space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)      |  Featured          |          |      |     mean F1 score     |     |
 |  10   |  [mercedes-benz-greener-manufacturing](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)      |  Featured          |          |  [regression](https://www.kaggle.com/tags/regression)    |     R^2     |     |
 |  11    |  [intel-mobileodt-cervical-cancer-screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)      |  Featured          |          |      |    logloss    |     |
-
 |  13   |  [youtube8m](https://www.kaggle.com/c/youtube8m)      |  Featured          |          |      |     GAP    |     |
 |  14    |  [the-nature-conservancy-fisheries-monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)      |  Featured          |          | [object-detection](https://www.kaggle.com/tags/object-detection)     |     logloss     |     |
 |  15    |  [data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017)      |  Featured          |          |  [binary-classification](https://www.kaggle.com/tags/binary-classification)    |     LogLoss    |     |
