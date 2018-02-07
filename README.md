@@ -15,21 +15,21 @@
 
 | **No** | **Competetion Name** | **Category** | **Top Solutions** | **type** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
-|  1    |  [web-traffic-time-series-forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [[1st](https://github.com/Arturus/kaggle-web-traffic)]     |     | SMAPE    |   Done       |
+|  1    |  [web-traffic-time-series-forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [[1st](https://github.com/Arturus/kaggle-web-traffic)]     | [time-series](https://www.kaggle.com/tags/time-series)    | SMAPE    |   Done       |
 |  2    |  [statoil-iceberg-classifier-challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)      |  Featured        |      [[1st](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241)][[2nd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294)],[[3rd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207)]     |   |     LogLoss     | Done  |
 |  3    | [zillow-prize-1](https://www.kaggle.com/c/zillow-prize-1)       |  Featured      |          |      |   MeanAbsoluteError       |     |
 |  4    |  [tensorflow-speech-recognition-challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)      |  Featured        |          |      |     Multiclass Accuracy      |     |
-|  5    |  [passenger-screening-algorithm-challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge)      |  Featured        |          |      |     LogLoss     |     |
-|  6    |  [msk-redefining-cancer-treatment](https://www.kaggle.com/c/msk-redefining-cancer-treatment)      |  Featured        |          |      |     Multi Class Log Loss     |     |
+|  5    |  [passenger-screening-algorithm-challenge](https://www.kaggle.com/c/passenger-screening-algorithm-challenge)      |  Featured        |          | [object-detection](https://www.kaggle.com/tags/object-detection)     |     LogLoss     |     |
+|  6    |  [msk-redefining-cancer-treatment](https://www.kaggle.com/c/msk-redefining-cancer-treatment)      |  Featured        |          |  [multiclass-classification](https://www.kaggle.com/tags/multiclass-classification)    |     Multi Class Log Loss     |     |
 |  7    |  [nyc-taxi-trip-duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)      |  Playground         |          |      |     Multi Class Log Loss     |     |
-|  8    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |      |     mean F1 score     |     |
+|  8    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |   [regression](https://www.kaggle.com/tags/regression)    |     mean F1 score     |     |
 |  9    |  [planet-understanding-the-amazon-from-space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space)      |  Featured          |          |      |     mean F1 score     |     |
-|  10   |  [ercedes-benz-greener-manufacturing](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)      |  Featured          |          |      |     R^2     |     |
+|  10   |  [mercedes-benz-greener-manufacturing](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing)      |  Featured          |          |  [regression](https://www.kaggle.com/tags/regression)    |     R^2     |     |
 |  11    |  [intel-mobileodt-cervical-cancer-screening](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening)      |  Featured          |          |      |    logloss    |     |
 |  12    |  [instacart-market-basket-analysis](https://www.kaggle.com/c/instacart-market-basket-analysis)      |  Featured          |          |      |     mean F1 score     |     |
 |  13   |  [youtube8m](https://www.kaggle.com/c/youtube8m)      |  Featured          |          |      |     GAP    |     |
-|  14    |  [the-nature-conservancy-fisheries-monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)      |  Featured          |          |      |     logloss     |     |
-|  15    |  [data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017)      |  Featured          |          |      |     LogLoss    |     |
+|  14    |  [the-nature-conservancy-fisheries-monitoring](https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring)      |  Featured          |          | [object-detection](https://www.kaggle.com/tags/object-detection)     |     logloss     |     |
+|  15    |  [data-science-bowl-2017](https://www.kaggle.com/c/data-science-bowl-2017)      |  Featured          |          |  [binary-classification](https://www.kaggle.com/tags/binary-classification)    |     LogLoss    |     |
 |  16   |  [dstl-satellite-imagery-feature-detection](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection)      |  Featured          |          |      |     Jaccard    |     |
 |  17    |  [two-sigma-financial-modeling](https://www.kaggle.com/c/two-sigma-financial-modeling)      |  Featured          |          |      |     R2    |     |
 |  18   |  [outbrain-click-prediction](https://www.kaggle.com/c/outbrain-click-prediction)      |  Featured          |          |      |     MAP@12    |     |
