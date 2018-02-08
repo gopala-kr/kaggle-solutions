@@ -15,8 +15,8 @@
 
 | **No** | **Competetion Name** | **Category** | **Top Solutions** | **type** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
-|  0    |  [recruit-restaurant-visitor-forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) | Featured |   |   ensembling, time-series, forecasting | RMSLE   |  |
-|  1    |  [web-traffic-time-series-forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [[1st](https://github.com/Arturus/kaggle-web-traffic)]     | ensembling, time-series, forecasting    | SMAPE    |   Done       |
+|  0  |    [data-science-bowl-2018](https://www.kaggle.com/c/data-science-bowl-2018)  |   Featured |   | [binary-classification](https://www.kaggle.com/tags/binary-classification) | intersection over union (IoU)   | |
+|   1  |   [mercari-price-suggestion-challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) | Featured   |   |  | RMSLE | |
 |  2    |  [statoil-iceberg-classifier-challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)      |  Featured        |      [[1st](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241)][[2nd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294)],[[3rd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207)]     | [binary-classification](https://www.kaggle.com/tags/binary-classification)  |     LogLoss     | Done  |
 |  3    | [zillow-prize-1](https://www.kaggle.com/c/zillow-prize-1)       |  Featured      |          |      |   MeanAbsoluteError       |     |
 |  4    |  [tensorflow-speech-recognition-challenge](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)      |  Featured        |          |      |     Multiclass Accuracy      |     |
@@ -45,3 +45,5 @@
 |  28    |  [avazu-ctr-prediction](https://www.kaggle.com/c/avazu-ctr-prediction)      |  Featured          |          |      |      Logarithmic Loss   |     |
 |  29    |  [yandex-personalized-web-search-challenge](https://www.kaggle.com/c/yandex-personalized-web-search-challenge)      |  Featured          |          |      |      NDCG   |     |
 |  30    |  [AlgorithmicTradingChallenge](https://www.kaggle.com/c/AlgorithmicTradingChallenge)      |  Featured          |          |      |      RMSE     |     |
+|  31    |  [recruit-restaurant-visitor-forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) | Featured |   |   ensembling, time-series, forecasting | RMSLE   |  |
+|  32   |  [web-traffic-time-series-forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [[1st](https://github.com/Arturus/kaggle-web-traffic)]     | ensembling, time-series, forecasting    | SMAPE    |   Done       |
