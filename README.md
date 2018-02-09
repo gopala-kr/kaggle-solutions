@@ -47,3 +47,6 @@
 |  30    |  [AlgorithmicTradingChallenge](https://www.kaggle.com/c/AlgorithmicTradingChallenge)      |  Featured          |          | [future-prediction](https://www.kaggle.com/tags/future-prediction)     |      RMSE     |     |
 |  31    |  [recruit-restaurant-visitor-forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) | Featured |   |   ensembling, time-series, forecasting | RMSLE   |  |
 |  32   |  [web-traffic-time-series-forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting)      |    Research    |   [[1st](https://github.com/Arturus/kaggle-web-traffic)]     | ensembling, time-series, forecasting    | SMAPE    |   Done       |
+| 33 |  [restaurant-revenue-prediction](https://www.kaggle.com/c/restaurant-revenue-prediction)  | Featured    |  | regression  | RMSE |  |
+|  34 | [predict-west-nile-virus](https://www.kaggle.com/c/predict-west-nile-virus)  |   Featured   |     |  [binary-classification](https://www.kaggle.com/tags/binary-classification)   |  area under the ROC curve  |     |  
+|  35 |  [march-machine-learning-mania-2015](https://www.kaggle.com/c/march-machine-learning-mania-2015)  |  Featured        |      |     [future-prediction](https://www.kaggle.com/tags/future-prediction)  |  LogLoss    |   |
