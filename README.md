@@ -1,6 +1,6 @@
 
 
-> notes and solutions on kaggle competetions
+> notes and solutions on kaggle competitions
 
 ---------
 
