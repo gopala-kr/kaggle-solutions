@@ -61,3 +61,9 @@
 | 44 |  [The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes)   |  Featured  |    |    |   quadratic weighted kappa |   |  
 |  45  |  [the-allen-ai-science-challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge)   | Featured  |  |  |   |  |
 |  46  |   [deloitte-churn-prediction](https://www.kaggle.com/c/deloitte-churn-prediction)    |   Featured      |           |            |    Area Under the ROC Curve     |
+
+
+------------------
+
+* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+* []()
