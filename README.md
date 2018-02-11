@@ -58,3 +58,6 @@
 |  41 |  [springleaf-marketing-response](https://www.kaggle.com/c/springleaf-marketing-response)  |  Featured        |      |     [binary-classification](https://www.kaggle.com/tags/binary-classification)  |   area under the ROC curve    |   |
 |  42 |  [diabetic-retinopathy-detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)  |  Featured        |      |     [binary-classification](https://www.kaggle.com/tags/binary-classification)  |  quadratic weighted kappa    |   |
 |  43 |  [risky-business](https://www.kaggle.com/c/risky-business)  |  Featured        |      |     [future-prediction](https://www.kaggle.com/tags/future-prediction)  |  LogLoss    |   |
+| 44 |  [The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes)   |  Featured  |    |    |   quadratic weighted kappa |   |  
+|  45  |  [the-allen-ai-science-challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge)   | Featured  |  |  |   |  |
+|  46  |   [deloitte-churn-prediction](https://www.kaggle.com/c/deloitte-churn-prediction)    |   Featured      |           |            |    Area Under the ROC Curve     |
