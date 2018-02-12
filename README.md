@@ -13,7 +13,7 @@
 
 **kaggle old competitions**
 
-| **No** | **Competeition Name** | **Category** | **Solutions** | **type** | **Eval metric**  |**Tests**
+| **No** | **Competition Name** | **Category** | **Solutions** | **type** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
 |  0  |    [data-science-bowl-2018](https://www.kaggle.com/c/data-science-bowl-2018)  |   Featured |   | [binary-classification](https://www.kaggle.com/tags/binary-classification) | intersection over union (IoU)   | |
 |   1  |   [mercari-price-suggestion-challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) | Featured   |   | [multiclass-classification](https://www.kaggle.com/tags/multiclass-classification) | RMSLE | |
