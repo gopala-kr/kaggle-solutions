@@ -9,6 +9,7 @@
 || [tensorflow-speech-recognition-challenge](https://github.com/ace19-dev/tensorflow-speech-recognition-challenge) | [leonardovaleriano/tensorflow-speech-recognition-challenge](https://github.com/leonardovaleriano/tensorflow-speech-recognition-challenge) | [DSB2017](https://github.com/lfz/DSB2017) ||
 
 
+|| [gdb/kaggle](https://github.com/gdb/kaggle) ||
 -------------------
 
 **kaggle old competitions**
