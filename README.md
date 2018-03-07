@@ -15,9 +15,9 @@
 
 | **No** | **Competition Name** | **Category** | **Solutions** | **type** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
-|    0  |   [jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Featured |    |    |      |  ROC AUC   |  |
-|   0   |   [mens-machine-learning-competition-2018](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Featured |    |    |      |  LogLoss   |  |
-|  0  |    [data-science-bowl-2018](https://www.kaggle.com/c/data-science-bowl-2018)  |   Featured |   | [binary-classification](https://www.kaggle.com/tags/binary-classification) | intersection over union (IoU)   | |
+|    0  |   [jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Featured |    |    |  ROC AUC     |    |  |
+|   0   |   [mens-machine-learning-competition-2018](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Featured |    |    |  LogLoss     |    |  |
+|  0  |    [data-science-bowl-2018](https://www.kaggle.com/c/data-science-bowl-2018)  |   Featured |   | [binary-classification](https://www.kaggle.com/tags/binary-classification) | intersection over union (IoU)   | | |
 |   1  |   [mercari-price-suggestion-challenge](https://www.kaggle.com/c/mercari-price-suggestion-challenge) | Featured   | [[1st](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50256)] [[3rd](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50272)] [[13th](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50260)] [[14th](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50275)] [[18th](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50252)] [[22nd](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50259)] [[22nd](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/50300)] [[2nd stage testing](https://www.kaggle.com/c/mercari-price-suggestion-challenge/discussion/49522)]| [multiclass-classification](https://www.kaggle.com/tags/multiclass-classification) |  | RMSLE | |
 |  2    |  [statoil-iceberg-classifier-challenge](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)      |  Featured        |      [[1st](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48241)][[2nd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48294)] [[3rd](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/discussion/48207)]     | [binary-classification](https://www.kaggle.com/tags/binary-classification)  |     LogLoss     | Done  |
 |  3    | [zillow-prize-1](https://www.kaggle.com/c/zillow-prize-1)       |  Featured      | [[17th](https://www.kaggle.com/c/zillow-prize-1/discussion/47434)]         |  [future-prediction](https://www.kaggle.com/tags/future-prediction)    |   MeanAbsoluteError       |     |
@@ -60,13 +60,4 @@
 |  41 |  [springleaf-marketing-response](https://www.kaggle.com/c/springleaf-marketing-response)  |  Featured        |      |     [binary-classification](https://www.kaggle.com/tags/binary-classification)  |   area under the ROC curve    |   |
 |  42 |  [diabetic-retinopathy-detection](https://www.kaggle.com/c/diabetic-retinopathy-detection)  |  Featured        |      |     [binary-classification](https://www.kaggle.com/tags/binary-classification)  |  quadratic weighted kappa    |   |
 |  43 |  [risky-business](https://www.kaggle.com/c/risky-business)  |  Featured        |      |     [future-prediction](https://www.kaggle.com/tags/future-prediction)  |  LogLoss    |   |
-| 44 |  [The Hewlett Foundation: Automated Essay Scoring](https://www.kaggle.com/c/asap-aes)   |  Featured  |    |    |   quadratic weighted kappa |   |  
-|  45  |  [the-allen-ai-science-challenge](https://www.kaggle.com/c/the-allen-ai-science-challenge)   | Featured  |  |  |   |  |
-|  46  |   [deloitte-churn-prediction](https://www.kaggle.com/c/deloitte-churn-prediction)    |   Featured      |           |            |    Area Under the ROC Curve     |
-
-
-------------------
-
-* [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
-
-
+| 44 |  [The Hewlett Foundation: Automated Essay 
