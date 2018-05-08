@@ -15,7 +15,7 @@
 
 | **No** | **Competition Name** | **Category** | **Solutions** | **type** | **Eval metric**  |**Tests**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
-|       |   [talkingdata-adtracking-fraud-detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Featured | [[4th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56243)] [[11th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56250)]   |    |  ROC AUC     |    |  |
+|       |   [talkingdata-adtracking-fraud-detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Featured | [[4th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56243)] [[9th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56279)] [[11th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56250)]   |    |  ROC AUC     |    |  |
 |    0  |   [jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Featured |  |    |  ROC AUC     |    |  |
 |   0   |   [mens-machine-learning-competition-2018](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Featured |    |    |  LogLoss     |    |  |
 |  0  |    [data-science-bowl-2018](https://www.kaggle.com/c/data-science-bowl-2018)  |   Featured |   | [binary-classification](https://www.kaggle.com/tags/binary-classification) | intersection over union (IoU)   | | |
