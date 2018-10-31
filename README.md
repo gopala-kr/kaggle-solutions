@@ -17,8 +17,9 @@
 |:-------|:----------------------------------|:------------------------------|:--------------------------------| :-----|:-----|:---------|
 
 |    0   | [tgs-salt-identification-challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge)  | Featured  |  [[1st](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/69291)]  |     |   IoU      |    |  |
+
 |    0   | [avito-demand-prediction](https://www.kaggle.com/c/avito-demand-prediction)  | Featured  |  [[2nd](https://www.kaggle.com/c/avito-demand-prediction/discussion/59871)] [[4th](https://www.kaggle.com/c/avito-demand-prediction/discussion/59881)] [[3rd](https://www.kaggle.com/c/avito-demand-prediction/discussion/59885)] [[5th](https://www.kaggle.com/c/avito-demand-prediction/discussion/59914)] |     |   RMSE     |    |  |
-|    0   | [home-credit-default-risk](https://www.kaggle.com/c/home-credit-default-risk)  | Featured  |    |     |   ROC AUC     |    |  |0
+|    0   | [home-credit-default-risk](https://www.kaggle.com/c/home-credit-default-risk)  | Featured  |    |     |   ROC AUC     |    |  |
 |  0     |   [talkingdata-adtracking-fraud-detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) | Featured | [[4th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56243)] [[9th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56279)] [[11th](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56250)]   |    |  ROC AUC     |    |  |
 |    0  |   [jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge) | Featured |  |    |  ROC AUC     |    |  |
 |   0   |   [mens-machine-learning-competition-2018](https://www.kaggle.com/c/mens-machine-learning-competition-2018) | Featured |    |    |  LogLoss     |    |  |
